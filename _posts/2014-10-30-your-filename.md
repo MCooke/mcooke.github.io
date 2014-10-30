@@ -1,5 +1,7 @@
 ---
-published: true
+layout: post
+category : pages
+tags : [how-to, jekyll]
 ---
 
 ## A New Post
